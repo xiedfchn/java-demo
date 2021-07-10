@@ -1,7 +1,7 @@
 # java-demo
 
 ## Class
-A class is the blueprint from which individual objects are created./
+A class is the blueprint from which individual objects are created.\
 Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an instance of the class of objects known as bicycle
 ## Abstract Class
 An abstract class is a class that is declared abstract—it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
